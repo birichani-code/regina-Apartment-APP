@@ -137,3 +137,4 @@ This project included many properties and capabilities where you can create acco
 Then you can see information and pictures about hotel and rooms and see the reviews, services and packages.
 After that you can create new reservation by filling the book form. Then you can modify it in your reservations page that provide a list of your reservations that you can update or delete.
 This project will help the real life to book a far hotels without going to it so you can easily book from the internet so that make the operation faster and easier.
+# regina-Apartment-APP

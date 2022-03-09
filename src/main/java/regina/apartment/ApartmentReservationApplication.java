@@ -1,13 +1,13 @@
-package henry.hotel;
+package regina.apartment;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HotelReservationApplication {
+public class ApartmentReservationApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HotelReservationApplication.class, args);
+		SpringApplication.run(ApartmentReservationApplication.class, args);
 	}
 
 }
